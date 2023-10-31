@@ -4,7 +4,8 @@
 
 **Paper:** Identifying Conspiracy Theories News based on Event Relation Graph<br/>
 **Accepted:** The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)<br/>
-**Authors:** Yuanyuan Lei, Ruihong Huang
+**Authors:** Yuanyuan Lei, Ruihong Huang<br/>
+**Paper Link:** https://arxiv.org/pdf/2310.18545.pdf
 
 <br/>
 
@@ -28,8 +29,16 @@ If you are going to cite this paper, please use the form:
 
 Yuanyuan Lei and Ruihong Huang. 2023. Identifying Conspiracy Theories News based on Event Relation Graph. In Findings of the Association for Computational Linguistics: EMNLP 2023, Singapore. Association for Computational Linguistics.
 
+@misc{lei2023identifying,
+      title={Identifying Conspiracy Theories News based on Event Relation Graph}, 
+      author={Yuanyuan Lei and Ruihong Huang},
+      year={2023},
+      eprint={2310.18545},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 
-
+<br/>
 
 
 
